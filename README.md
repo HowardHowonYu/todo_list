@@ -1,1 +1,3 @@
-# todo_list
+# React Native App Practice
+
+- Todo list
